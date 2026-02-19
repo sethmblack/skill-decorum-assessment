@@ -3,8 +3,8 @@ name: decorum-assessment
 description: Evaluate and calibrate the fit between speaker, message, audience, and occasion to determine the appropriate style, tone, and approach for maximum effectiveness.
 license: MIT
 metadata:
-  version: 1.0.3795
   author: sethmblack
+  version: 1.0.3796
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
